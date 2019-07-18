@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: afbd3096085c99d4ea22eec7424df32d
+timeCreated: 1527533652
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: University Roman Std
+  fontNames:
+  - University Roman Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3d2bd002d25c4464b9e60fa8e4131bdc, type: 3}
+  - {fileID: 12800000, guid: d70e67a5ebaeafa4c9060e2c65b38bb1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
